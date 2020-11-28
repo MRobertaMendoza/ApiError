@@ -1,0 +1,15 @@
+
+
+{
+
+
+"conexion" :{
+	
+
+	"server" : "localhost",
+	"user" 	 : "root",
+	"password" : "",
+	"database" : "api_biblioteca",
+	"port"     : "3306"
+}
+}
